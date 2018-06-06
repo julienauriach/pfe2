@@ -59,7 +59,13 @@ p {
    padding-bottom: 4vh;
    color: red;
 }
-
+.interFramed{
+   line-height: 1.0em;
+   font-family: 'Cormorant';
+   font-size: 1.6em;
+   padding-bottom: 5vh;
+   color: #663300;
+}
 
 #imgBck1{
 	background: url(assets/images/titre.jpg) no-repeat center fixed; 
@@ -122,7 +128,17 @@ p {
 	margin-bottom: 3vh;
 	border-radius: 10px;
 }
-
+.onBckFramed{
+	color: #1a0f00;
+	background-color: rgba(230, 230, 230, 0.87);
+	padding-left: 4.1vh;
+	padding-right: 4.1vh;
+	padding-bottom: 30px;
+	padding-top: 5vh;
+	margin-top: 10vh;
+	margin-bottom: 3vh;
+	border-radius: 10px;
+}
 /* Mobile : désactiver la visibilité de .mobileEvanescent, activer la visibilité des images fixes  */
 
 .objetMobile{
