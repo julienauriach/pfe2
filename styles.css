@@ -178,9 +178,6 @@ display: none;
 
 @media(min-width: 575px)
 {
-	.mobileEvanescent{
-	display: inline-block;
-	}
 	.videoMobileEvanescente
 	{
 		display: inline;
