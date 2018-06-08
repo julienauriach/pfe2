@@ -176,7 +176,7 @@ display: none;
 
 /* Desktop : activer la visibilité de .mobileEvanescent, désactiver la visibilité des images fixes  */
 
-@media(min-width: 660px)
+@media(min-width: 575px)
 {
 	.mobileEvanescent{
 	display: inline-block;
